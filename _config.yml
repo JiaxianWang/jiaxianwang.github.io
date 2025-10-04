@@ -2,7 +2,14 @@ title: Bruce's knowledge base
 description: Bruce's knowledge base site
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://jiaxianwang.github.io/
 
 aux_links:
   My GitHub: https://github.com/JiaxianWang
+
+defaults:
+  - scope:
+      path: "docs"
+      type: "pages"
+    values:
+      layout: "default"
