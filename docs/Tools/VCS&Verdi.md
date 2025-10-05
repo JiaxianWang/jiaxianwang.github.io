@@ -1,6 +1,7 @@
 ---
 title: VCS & Verdi
-nav_order: 4
+parent: Tools
+nav_order: 2
 ---
 
 # This page is about the Synopsys VCS & Verdi Tool flow.
